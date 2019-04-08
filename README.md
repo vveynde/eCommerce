@@ -5,7 +5,7 @@
   Registrar cada compra * Actualitzar stock amb cada compra
 
   USUARIS:
-  Login * Buscador * Categories (filtrar) * Fitxa del llibre * Mostra de llibres a l’atzar * Comprar llibre
+  Login * Register * Buscador * Categories (filtrar) * Fitxa del llibre * Mostra de llibres a l’atzar * Comprar llibre
 
   ADMINISTRADORS:
-  Login * Introduir llibre * Retirar llibre * Modificar llibre
+  Login * Register * Introduir llibre * Retirar llibre * Modificar llibre
