@@ -9,3 +9,5 @@
 
   ADMINISTRADORS:
   Login * Register * Introduir llibre * Retirar llibre * Modificar llibre
+
+*test
